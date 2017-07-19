@@ -6,7 +6,7 @@ Sometimes your users found hard to earn a specific virtual currency on a specifi
 Introducing **Discoin**, a universal currency allowing users to exchange currencies from one bot to another bot.
 
 ## Definition of a central currency
-**Discoin** is a currency that is __solely used to be exchanged into other bots' currencies.__ It can be traded between users.
+**Discoin** is a currency that is __solely used to be exchanged into other bots' currencies.__ It is only used during transactions.
 
 Exchange rates with other bot currencies are discussed based on rarity. They're fixed unless methods used to earn currencies has changed significantly.
 
