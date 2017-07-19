@@ -12,3 +12,10 @@ Exchange rates with other bot currencies are discussed based on rarity. They're 
 
 ## Technology
 A central *guild* should be created so that each participating bot can send message and receive message to process transactions.
+
+Let's say a user wants to exchange A bot currency to B bot currency.
+
+1. The user requests exchanging on A bot
+2. In a central server, A bot sends a message indicates that a transaction has been started and convert the amount from A bot currency to Discoin
+3. B bot picks the message up and convert the amount from Discoin to B bot currency and finishes the transaction
+4. The user is notified by B bot indicates that the transaction has been finished.
