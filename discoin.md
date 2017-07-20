@@ -11,7 +11,7 @@ Introducing **Discoin**, a universal currency allowing users to exchange currenc
 Exchange rates with other bot currencies are discussed based on rarity. They're fixed unless methods used to earn currencies has changed significantly.
 
 ## Technology
-A central *guild* should be created so that each participating bot can send message and receive message to process transactions.
+A central API should be created so that each participating bot can send requests and receive requests to process transactions.
 
 Let's say a user wants to exchange A bot currency to B bot currency.
 
